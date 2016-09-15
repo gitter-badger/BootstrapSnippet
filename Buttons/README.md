@@ -13,4 +13,8 @@ Here you can find Buttons designed with bootstrap.
 * CircleSplit3Buttons
 
 ## Usage
-TODO: Write usage instructions
+
+### CircleButtons
+```
+<link href="../css/Buttons/btnCircle.css" rel="stylesheet">
+```
